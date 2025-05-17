@@ -1,0 +1,15 @@
+file_format: "1"
+id: hiro_sofle
+name: Hirokiraj Sofle (choc, black)
+url: https://github.com/hirokiraj/hiro-sofle
+type: board
+arch: arm
+features:
+  - keys
+  - display
+outputs:
+  - usb
+  - ble
+siblings:
+  - hiro_sofle_left
+  - hiro_sofle_right
