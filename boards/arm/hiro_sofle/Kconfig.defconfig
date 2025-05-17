@@ -6,7 +6,7 @@
 if BOARD_HIRO_SOFLE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Hirokiraj Sofle (choc, black)"
+    default "Hirokiraj Sofle"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
