@@ -8,9 +8,9 @@ manifest:
     - name: hiro_sofle
       url: https://github.com/hirokiraj/hiro-sofle
       revision: master
-    - name: mario-peripheral-animation
+    - name: hammerbeam-slideshow
       remote: gpeye
-      revision: main 
+      revision: main
     - name: zmk
       remote: zmkfirmware
       revision: main
