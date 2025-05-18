@@ -2,14 +2,14 @@
 include:
   - board: hiro_sofle_right
     shield: nice_view_custom
-    artifact-name: hiro_sofle_right
+    artifact-name: hiro-sofle-right
 
   - board: hiro_sofle_left
     shield: nice_view
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
-    artifact-name: hiro_sofle_left
+    artifact-name: hiro-sofle-left
   
   - board: hiro_sofle_left
     shield: settings_reset
-    artifact_name: reset_hiro_sofle_left
+    artifact_name: hiro-sofle-reset
