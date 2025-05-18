@@ -4,5 +4,5 @@ This is a ripoff repo with ZMK config for CN Eylash Sofle, with changes made by 
 
 # Sofle Keymap
 
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/hiro_sofle.svg" >
 
